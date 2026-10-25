@@ -1,0 +1,13 @@
+
+# Terraform downloaded providers and working files
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+
+# Local Terraform variables
+terraform.tfvars
+*.auto.tfvars
+
+# Secrets
+.env
